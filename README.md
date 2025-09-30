@@ -1,4 +1,2 @@
-# README.md
-
-## stargate-archive
+# stargate-archive
 
