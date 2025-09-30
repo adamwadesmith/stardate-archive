@@ -1,0 +1,5 @@
+# .gitignore
+.venv/bin/
+.venv/include/
+.venv/lib/
+.venv/lib64
