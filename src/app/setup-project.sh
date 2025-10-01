@@ -5,7 +5,7 @@
 # mkdir stardate-archive && cd stardate-archive
 python3 -m venv .venv
 . .venv/bin/activate
-pip install requests beautifulsoup4 lxml
+pip install requests beautifulsoup4 lxml pytest
 
 # Save the scraper as scrape_stardate.py
 cat >scrape_stardate.py <<'PY'

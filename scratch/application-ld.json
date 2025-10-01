@@ -1,0 +1,159 @@
+{
+	"@context": "https://schema.org",
+	"@graph": [
+		{
+			"@type": "Article",
+			"@id": "https://stardate.org/podcast/2025-09-29#article",
+			"isPartOf": {
+				"@id": "https://stardate.org/podcast/2025-09-29"
+			},
+			"author": {
+				"name": "Casey Walker",
+				"@id": "https://stardate.org/#/schema/person/de826861ee3eb25ad9e2117316598836"
+			},
+			"headline": "Fomalhaut",
+			"datePublished": "2025-09-29T05:00:00+00:00",
+			"mainEntityOfPage": {
+				"@id": "https://stardate.org/podcast/2025-09-29"
+			},
+			"wordCount": 264,
+			"publisher": {
+				"@id": "https://stardate.org/#organization"
+			},
+			"inLanguage": "en-US"
+		},
+		{
+			"@type": "WebPage",
+			"@id": "https://stardate.org/podcast/2025-09-29",
+			"url": "https://stardate.org/podcast/2025-09-29",
+			"name": "Fomalhaut: September 29, 2025 &mdash; StarDate Online",
+			"isPartOf": {
+				"@id": "https://stardate.org/#website"
+			},
+			"datePublished": "2025-09-29T05:00:00+00:00",
+			"description": "A widely spread trio of stars",
+			"breadcrumb": {
+				"@id": "https://stardate.org/podcast/2025-09-29#breadcrumb"
+			},
+			"inLanguage": "en-US",
+			"potentialAction": {
+				"@type": "ListenAction",
+				"target": "https://stardate.org/podcast/2025-09-29#podcast_player_99570",
+				"object": {
+					"@id": "https://stardate.org/podcast/2025-09-29#/schema/podcast"
+				}
+			},
+			"mainEntityOfPage": "https://stardate.org/podcast/2025-09-29#/schema/podcast"
+		},
+		{
+			"@type": "BreadcrumbList",
+			"@id": "https://stardate.org/podcast/2025-09-29#breadcrumb",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https://stardate.org/"
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Episode",
+					"item": "https://stardate.org/podcast"
+				},
+				{
+					"@type": "ListItem",
+					"position": 3,
+					"name": "Fomalhaut"
+				}
+			]
+		},
+		{
+			"@type": "WebSite",
+			"@id": "https://stardate.org/#website",
+			"url": "https://stardate.org/",
+			"name": "StarDate Online",
+			"description": "Your guide to the universe",
+			"publisher": {
+				"@id": "https://stardate.org/#organization"
+			},
+			"potentialAction": [
+				{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https://stardate.org/?s={search_term_string}"
+					},
+					"query-input": {
+						"@type": "PropertyValueSpecification",
+						"valueRequired": true,
+						"valueName": "search_term_string"
+					}
+				}
+			],
+			"inLanguage": "en-US"
+		},
+		{
+			"@type": "Organization",
+			"@id": "https://stardate.org/#organization",
+			"name": "StarDate Online",
+			"url": "https://stardate.org/",
+			"logo": {
+				"@type": "ImageObject",
+				"inLanguage": "en-US",
+				"@id": "https://stardate.org/#/schema/logo/image/",
+				"url": "https://stardate.org/wp-content/uploads/2022/09/stardate-logo.svg",
+				"contentUrl": "https://stardate.org/wp-content/uploads/2022/09/stardate-logo.svg",
+				"width": 260,
+				"height": 99,
+				"caption": "StarDate Online"
+			},
+			"image": {
+				"@id": "https://stardate.org/#/schema/logo/image/"
+			},
+			"sameAs": [
+				"https://facebook.com/stardate",
+				"https://x.com/stardate",
+				"https://www.youtube.com/user/mcdonaldobservatory"
+			]
+		},
+		{
+			"@type": "Person",
+			"@id": "https://stardate.org/#/schema/person/de826861ee3eb25ad9e2117316598836",
+			"name": "Casey Walker",
+			"image": {
+				"@type": "ImageObject",
+				"inLanguage": "en-US",
+				"@id": "https://stardate.org/#/schema/person/image/",
+				"url": "https://secure.gravatar.com/avatar/df9d9ea374c9d00790002355176dda32869b1452137a84fc430c36b54f221100?s=96&d=mm&r=g",
+				"contentUrl": "https://secure.gravatar.com/avatar/df9d9ea374c9d00790002355176dda32869b1452137a84fc430c36b54f221100?s=96&d=mm&r=g",
+				"caption": "Casey Walker"
+			},
+			"sameAs": [
+				"https://stardate.org"
+			]
+		},
+		{
+			"@type": "PodcastEpisode",
+			"@id": "https://stardate.org/podcast/2025-09-29#/schema/podcast",
+			"url": "https://stardate.org/podcast/2025-09-29",
+			"name": "Fomalhaut: September 29, 2025 &mdash; StarDate Online",
+			"datePublished": "2025-09-29",
+			"description": "A widely spread trio of stars",
+			"duration": "P2M",
+			"audio": {
+				"contentUrl": "https://episodes.castos.com/62e982cb693653-86607172/2098554/c1e-z110nb73k36t5rknj-9jq3x85ru2pd-50rd6n.mp3",
+				"contentSize": "1079904",
+				"@type": "AudioObject"
+			},
+			"partOfSeries": [
+				{
+					"@type": "PodcastSeries",
+					"name": "StarDate",
+					"url": "https://stardate.org/series/stardate",
+					"id": "https://stardate.org/series/stardate#/schema/podcastSeries"
+				}
+			]
+		}
+	]
+}

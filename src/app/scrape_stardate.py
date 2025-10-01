@@ -6,21 +6,22 @@ from bs4 import BeautifulSoup
 
 BASE = "https://stardate.org"
 START = f"{BASE}/podcast/"
-SLEEP = 0.05  # be polite
+SLEEP = 0  # be polite
 
 def iter_archive_pages():
     url = START
-    while True:
+    # while True:
+    for i in range(0, 2):   # for testing
         r = requests.get(url, timeout=20)
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
         yield soup
 
-        # find “Older posts” pagination
-        # try rel=next
+        # pagination: rel=next
         next_link = soup.find("link", rel="next")
         if not next_link:
             break
+
         url = urljoin(url, next_link.get("href"))
         time.sleep(SLEEP)
 
@@ -34,9 +35,11 @@ def fetch_episode(ep_url):
     pub_date = None
     if date_el:
         pub_date = date_el.strip()
+
     # description
     desc = soup.find("div", class_=re.compile(r"entry-content|post-content|content", re.I))
     description = desc.get_text(" ", strip=True) if desc else ""
+
     # MP3 link (“Download file”)
     mp3 = None
     for a in soup.find_all("a", href=True):
@@ -44,6 +47,7 @@ def fetch_episode(ep_url):
         if href.lower().endswith(".mp3"):
             mp3 = urljoin(ep_url, href)
             break
+        
     return {"title": title, "link": ep_url, "pub_date": pub_date, "description": description, "enclosure": mp3}
 
 def gather_all():
@@ -55,20 +59,25 @@ def gather_all():
             link = h2.find("a", href=True)
             if not link: 
                 continue
+
             ep_url = urljoin(BASE, link["href"])
             if "/podcast/" not in ep_url: 
                 continue
+
             if ep_url in seen: 
                 continue
+
             seen.add(ep_url)
             try:
                 data = fetch_episode(ep_url)
                 if data["enclosure"]:
                     eps.append(data)
+
             except Exception as e:
                 print("skip", ep_url, e)
+
             time.sleep(SLEEP)
-    # sort newest->oldest if we can parse dates; otherwise keep discovered order
+
     return eps
 
 def build_rss(items, out_path="stardate_full.xml"):
@@ -85,6 +94,7 @@ def build_rss(items, out_path="stardate_full.xml"):
         ET.SubElement(item, "link").text = it["link"]
         if it["pub_date"]:
             ET.SubElement(item, "pubDate").text = it["pub_date"]
+
         ET.SubElement(item, "description").text = html.escape(it["description"][:5000])
         enc = ET.SubElement(item, "enclosure", url=it["enclosure"], type="audio/mpeg")
         guid = ET.SubElement(item, "guid")
