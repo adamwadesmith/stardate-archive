@@ -6,8 +6,13 @@ from bs4 import BeautifulSoup
 
 BASE = "https://stardate.org"
 START = f"{BASE}/podcast/"
+SITEMAP = f"{BASE}/sitemap"
 SLEEP = 0  # be polite
 
+def fetch_podcast_sitemaps(text:str) -> list[str]:
+    soup = BeautifulSoup(text, "xml")
+    return []
+    
 def iter_archive_pages():
     url = START
     # while True:

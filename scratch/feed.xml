@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://stardate.org/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	>
+		<channel>
+		<title>StarDate</title>
+		<atom:link href="https://stardate.org/feed/podcast/stardate/" rel="self" type="application/rss+xml"/>
+		<link>https://stardate.org/series/stardate</link>
+		<description>StarDate, the longest-running national radio science feature in the U.S., tells listeners what to look for in the night sky.</description>
+		<lastBuildDate>Wed, 01 Oct 2025 05:00:00 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright>© 2022 The University of Texas McDonald Observatory</copyright>
+		<itunes:subtitle>Your guide to the universe</itunes:subtitle>
+		<itunes:author>Billy Henry</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:summary>StarDate, the longest-running national radio science feature in the U.S., tells listeners what to look for in the night sky.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>McDonald Observatory</itunes:name>
+			<itunes:email>comments@stardate.org</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:image href="https://stardate.org/wp-content/uploads/2023/08/stardate-logo-spaced.png"></itunes:image>
+			<image>
+				<url>https://stardate.org/wp-content/uploads/2023/08/stardate-logo-spaced.png</url>
+				<title>StarDate</title>
+				<link>https://stardate.org/series/stardate</link>
+			</image>
+		<itunes:category text="Science">
+			<itunes:category text="Astronomy"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Education">
+							</itunes:category>
+		<itunes:category text="Science">
+									<itunes:category text="Natural Sciences"></itunes:category>
+							</itunes:category>
+		<podcast:locked owner="comments@stardate.org">yes</podcast:locked>
+		<podcast:guid>f07d4108-04f3-5504-a2d5-53541da86389</podcast:guid>
+		
+		<!-- podcast_generator="SSP by Castos/3.12.0" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
+		<generator>https://wordpress.org/?v=6.8.3</generator>
+
+<item>
+	<title>More Fomalhaut</title>
+	<link>https://stardate.org/podcast/2025-09-30</link>
+	<pubDate>Tue, 30 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99571</guid>
+	<description><![CDATA[<p>The star Fomalhaut is a bit of a disappointment. Almost two decades ago, astronomers announced the discovery of a giant planet orbiting the star &#8211; the first exoplanet actually seen at visible wavelengths of light. Almost from the beginning, though, other astronomers questioned the discovery. And they were right. It wasn&#8217;t a planet at all, but a big clump of dust &#8211; the aftermath of a giant collision.</p>
+<p>Fomalhaut is about twice as big and heavy as the Sun, and quite a bit brighter. It&#8217;s encircled by wide bands of dust. Most of the dust is at least a hundred times the distance from Earth to the Sun.</p>
+<p>Fomalhaut is only about one-tenth the age of the Sun. Even so, it&#8217;s old enough that it should have blown away most of the dust. The fact that the belts are so prominent &#8211; especially the outer belt &#8211; means that they&#8217;re being renewed. The most likely source is collisions between large comets or asteroids. As those bodies are destroyed, they spew dust out into space.</p>
+<p>One estimate says it would take the destruction of 2,000 comets that are one kilometer in diameter every day to keep the belts going. The would-be planet was the result of a collision between two even larger objects &#8211; briefly creating the illusion of a giant planet around this bright star.</p>
+<p>Fomalhaut is low in the southeast at nightfall, and climbs across the south later on.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[The star Fomalhaut is a bit of a disappointment. Almost two decades ago, astronomers announced the discovery of a giant planet orbiting the star &#8211; the first exoplanet actually seen at visible wavelengths of light. Almost from the beginning, though,]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>The star Fomalhaut is a bit of a disappointment. Almost two decades ago, astronomers announced the discovery of a giant planet orbiting the star &#8211; the first exoplanet actually seen at visible wavelengths of light. Almost from the beginning, though, other astronomers questioned the discovery. And they were right. It wasn&#8217;t a planet at all, but a big clump of dust &#8211; the aftermath of a giant collision.</p>
+<p>Fomalhaut is about twice as big and heavy as the Sun, and quite a bit brighter. It&#8217;s encircled by wide bands of dust. Most of the dust is at least a hundred times the distance from Earth to the Sun.</p>
+<p>Fomalhaut is only about one-tenth the age of the Sun. Even so, it&#8217;s old enough that it should have blown away most of the dust. The fact that the belts are so prominent &#8211; especially the outer belt &#8211; means that they&#8217;re being renewed. The most likely source is collisions between large comets or asteroids. As those bodies are destroyed, they spew dust out into space.</p>
+<p>One estimate says it would take the destruction of 2,000 comets that are one kilometer in diameter every day to keep the belts going. The would-be planet was the result of a collision between two even larger objects &#8211; briefly creating the illusion of a giant planet around this bright star.</p>
+<p>Fomalhaut is low in the southeast at nightfall, and climbs across the south later on.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098555/c1e-888jvbov6v6sq8d4j-xx4g9nvgc16r-n7ff8q.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[The star Fomalhaut is a bit of a disappointment. Almost two decades ago, astronomers announced the discovery of a giant planet orbiting the star &#8211; the first exoplanet actually seen at visible wavelengths of light. Almost from the beginning, though, other astronomers questioned the discovery. And they were right. It wasn&#8217;t a planet at all, but a big clump of dust &#8211; the aftermath of a giant collision.
+Fomalhaut is about twice as big and heavy as the Sun, and quite a bit brighter. It&#8217;s encircled by wide bands of dust. Most of the dust is at least a hundred times the distance from Earth to the Sun.
+Fomalhaut is only about one-tenth the age of the Sun. Even so, it&#8217;s old enough that it should have blown away most of the dust. The fact that the belts are so prominent &#8211; especially the outer belt &#8211; means that they&#8217;re being renewed. The most likely source is collisions between large comets or asteroids. As those bodies are destroyed, they spew dust out into space.
+One estimate says it would take the destruction of 2,000 comets that are one kilometer in diameter every day to keep the belts going. The would-be planet was the result of a collision between two even larger objects &#8211; briefly creating the illusion of a giant planet around this bright star.
+Fomalhaut is low in the southeast at nightfall, and climbs across the south later on.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Fomalhaut</title>
+	<link>https://stardate.org/podcast/2025-09-29</link>
+	<pubDate>Mon, 29 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99570</guid>
+	<description><![CDATA[<p>The southern evening sky is pretty bare at this time of year &#8211; lots of dark, empty spaces, but few bright stars. The one notable exception is Fomalhaut. It&#8217;s the brightest star of Piscis Austrinus, the southern fish. It&#8217;s low in the southeast at nightfall, and arcs across the south later on.</p>
+<p>The star we see as Fomalhaut is 25 light-years away. It&#8217;s about twice as big and heavy as the Sun, and more than 15 times brighter. It&#8217;s young &#8211; about 10 percent the age of the Sun. And it&#8217;s encircled by wide bands of dust, which may contain planets; more about that tomorrow.</p>
+<p>Fomalhaut has two companion stars &#8211; bound to it by their mutual gravitational pull. Both stars are smaller, cooler, and fainter than the Sun. One of them is barely visible to the eye alone, but you need a telescope to see the other.</p>
+<p>Both stars are a long way from Fomalhaut itself. One is almost a light-year away, while the other is two and a half light-years. Astronomers know they&#8217;re bound to Fomalhaut because they&#8217;re moving in the same direction and at the same speed. Their composition is similar to Fomalhaut&#8217;s as well, and so is their age.</p>
+<p>Fomalhaut itself will shine for another few hundred million years. But the companions will last much longer &#8211; billions of years for the larger one, and hundreds of billions of years for the other. So they&#8217;ll still be shining across the galaxy long after the demise of their showy companion.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[The southern evening sky is pretty bare at this time of year &#8211; lots of dark, empty spaces, but few bright stars. The one notable exception is Fomalhaut. It&#8217;s the brightest star of Piscis Austrinus, the southern fish. It&#8217;s low in the sou]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>The southern evening sky is pretty bare at this time of year &#8211; lots of dark, empty spaces, but few bright stars. The one notable exception is Fomalhaut. It&#8217;s the brightest star of Piscis Austrinus, the southern fish. It&#8217;s low in the southeast at nightfall, and arcs across the south later on.</p>
+<p>The star we see as Fomalhaut is 25 light-years away. It&#8217;s about twice as big and heavy as the Sun, and more than 15 times brighter. It&#8217;s young &#8211; about 10 percent the age of the Sun. And it&#8217;s encircled by wide bands of dust, which may contain planets; more about that tomorrow.</p>
+<p>Fomalhaut has two companion stars &#8211; bound to it by their mutual gravitational pull. Both stars are smaller, cooler, and fainter than the Sun. One of them is barely visible to the eye alone, but you need a telescope to see the other.</p>
+<p>Both stars are a long way from Fomalhaut itself. One is almost a light-year away, while the other is two and a half light-years. Astronomers know they&#8217;re bound to Fomalhaut because they&#8217;re moving in the same direction and at the same speed. Their composition is similar to Fomalhaut&#8217;s as well, and so is their age.</p>
+<p>Fomalhaut itself will shine for another few hundred million years. But the companions will last much longer &#8211; billions of years for the larger one, and hundreds of billions of years for the other. So they&#8217;ll still be shining across the galaxy long after the demise of their showy companion.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098554/c1e-z110nb73k36t5rknj-9jq3x85ru2pd-50rd6n.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[The southern evening sky is pretty bare at this time of year &#8211; lots of dark, empty spaces, but few bright stars. The one notable exception is Fomalhaut. It&#8217;s the brightest star of Piscis Austrinus, the southern fish. It&#8217;s low in the southeast at nightfall, and arcs across the south later on.
+The star we see as Fomalhaut is 25 light-years away. It&#8217;s about twice as big and heavy as the Sun, and more than 15 times brighter. It&#8217;s young &#8211; about 10 percent the age of the Sun. And it&#8217;s encircled by wide bands of dust, which may contain planets; more about that tomorrow.
+Fomalhaut has two companion stars &#8211; bound to it by their mutual gravitational pull. Both stars are smaller, cooler, and fainter than the Sun. One of them is barely visible to the eye alone, but you need a telescope to see the other.
+Both stars are a long way from Fomalhaut itself. One is almost a light-year away, while the other is two and a half light-years. Astronomers know they&#8217;re bound to Fomalhaut because they&#8217;re moving in the same direction and at the same speed. Their composition is similar to Fomalhaut&#8217;s as well, and so is their age.
+Fomalhaut itself will shine for another few hundred million years. But the companions will last much longer &#8211; billions of years for the larger one, and hundreds of billions of years for the other. So they&#8217;ll still be shining across the galaxy long after the demise of their showy companion.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Odd Alignment</title>
+	<link>https://stardate.org/podcast/2025-09-28</link>
+	<pubDate>Sun, 28 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99569</guid>
+	<description><![CDATA[<p>The Andromeda Galaxy, M31, is encircled by dozens of satellites &#8211; smaller galaxies in orbit around it. One of the larger satellites is something of an oddball. Of the three-dozen brightest, it&#8217;s the only one that lines up on the far side of Andromeda as seen from our home galaxy, the Milky Way.</p>
+<p>M31 is the closest giant galaxy to the Milky Way &#8211; just two-and-a-half million light-years away. Messier 110 is a couple of hundred thousand light-years farther. It&#8217;s a few thousand light-years in diameter, and contains about 10 billion stars &#8211; a tiny fraction the size of Andromeda.</p>
+<p>Astronomers have spent years watching M31&#8217;s entourage with Hubble Space Telescope. They recently reported that 36 of the 37 brightest members line up on the side of M31 that faces the Milky Way. And that&#8217;s hard to explain.</p>
+<p>The study said there&#8217;s only a tiny chance that the alignment is a coincidence &#8211; there must be a reason for it. But no one knows what that reason might be.</p>
+<p>It&#8217;s not a result of the Milky Way&#8217;s gravitational pull &#8211; it&#8217;s not strong enough. So there&#8217;s no obvious explanation for why M110 is an oddball &#8211; lurking on the far side of M31.</p>
+<p>M31 is low in the northeast at nightfall. Under dark skies, it looks like a hazy slash of light about as wide as the Moon. Through a small telescope, M110 looks like a bright star close by.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[The Andromeda Galaxy, M31, is encircled by dozens of satellites &#8211; smaller galaxies in orbit around it. One of the larger satellites is something of an oddball. Of the three-dozen brightest, it&#8217;s the only one that lines up on the far side of A]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>The Andromeda Galaxy, M31, is encircled by dozens of satellites &#8211; smaller galaxies in orbit around it. One of the larger satellites is something of an oddball. Of the three-dozen brightest, it&#8217;s the only one that lines up on the far side of Andromeda as seen from our home galaxy, the Milky Way.</p>
+<p>M31 is the closest giant galaxy to the Milky Way &#8211; just two-and-a-half million light-years away. Messier 110 is a couple of hundred thousand light-years farther. It&#8217;s a few thousand light-years in diameter, and contains about 10 billion stars &#8211; a tiny fraction the size of Andromeda.</p>
+<p>Astronomers have spent years watching M31&#8217;s entourage with Hubble Space Telescope. They recently reported that 36 of the 37 brightest members line up on the side of M31 that faces the Milky Way. And that&#8217;s hard to explain.</p>
+<p>The study said there&#8217;s only a tiny chance that the alignment is a coincidence &#8211; there must be a reason for it. But no one knows what that reason might be.</p>
+<p>It&#8217;s not a result of the Milky Way&#8217;s gravitational pull &#8211; it&#8217;s not strong enough. So there&#8217;s no obvious explanation for why M110 is an oddball &#8211; lurking on the far side of M31.</p>
+<p>M31 is low in the northeast at nightfall. Under dark skies, it looks like a hazy slash of light about as wide as the Moon. Through a small telescope, M110 looks like a bright star close by.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098553/c1e-122jzu5nmnkck9v1j-pkxv679jc92z-klyirk.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[The Andromeda Galaxy, M31, is encircled by dozens of satellites &#8211; smaller galaxies in orbit around it. One of the larger satellites is something of an oddball. Of the three-dozen brightest, it&#8217;s the only one that lines up on the far side of Andromeda as seen from our home galaxy, the Milky Way.
+M31 is the closest giant galaxy to the Milky Way &#8211; just two-and-a-half million light-years away. Messier 110 is a couple of hundred thousand light-years farther. It&#8217;s a few thousand light-years in diameter, and contains about 10 billion stars &#8211; a tiny fraction the size of Andromeda.
+Astronomers have spent years watching M31&#8217;s entourage with Hubble Space Telescope. They recently reported that 36 of the 37 brightest members line up on the side of M31 that faces the Milky Way. And that&#8217;s hard to explain.
+The study said there&#8217;s only a tiny chance that the alignment is a coincidence &#8211; there must be a reason for it. But no one knows what that reason might be.
+It&#8217;s not a result of the Milky Way&#8217;s gravitational pull &#8211; it&#8217;s not strong enough. So there&#8217;s no obvious explanation for why M110 is an oddball &#8211; lurking on the far side of M31.
+M31 is low in the northeast at nightfall. Under dark skies, it looks like a hazy slash of light about as wide as the Moon. Through a small telescope, M110 looks like a bright star close by.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Moon and Antares</title>
+	<link>https://stardate.org/podcast/2025-09-27</link>
+	<pubDate>Sat, 27 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99568</guid>
+	<description><![CDATA[<p>Earth has only one moon &#8211; one large natural satellite. But it might travel with an entourage of Moon chips &#8211; bits of the Moon blasted into space by impacts with asteroids. Some of the chips may share Earth&#8217;s orbit around the Sun. Others become &#8220;quasi&#8221;-moons. They weave around the Sun in a way that looks like they&#8217;re orbiting Earth.</p>
+<p>Astronomers have catalogued a dozen or more quasi-moons in recent years. The smallest is the size of a house. The largest is about three miles across.</p>
+<p>A recent study looked at how easy it would be to make a quasi-moon as the result of an impact. The study team simulated tens of thousands of impacts across the entire Moon, at different lunar phases and with different ejection speeds. The results showed that it&#8217;s pretty darned easy. Almost seven percent of the simulations produced objects that share Earth&#8217;s orbit. And two percent became quasi-moons. They can remain in stable orbit near Earth for thousands of years before they&#8217;re kicked away.</p>
+<p>A Chinese spacecraft is scheduled to visit one of the quasi-moons next year. It&#8217;ll collect a few ounces of dirt and pebbles and return them to Earth for study. That should tell us whether the object is a chip off the ol&#8217; Moon, or an interloper from elsewhere in the solar system.</p>
+<p>The Moon has a bright companion tonight: Antares, the brightest star of Scorpius. It&#8217;s close to the right of the Moon as they drop down the western sky in early evening.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[Earth has only one moon &#8211; one large natural satellite. But it might travel with an entourage of Moon chips &#8211; bits of the Moon blasted into space by impacts with asteroids. Some of the chips may share Earth&#8217;s orbit around the Sun. Others]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Earth has only one moon &#8211; one large natural satellite. But it might travel with an entourage of Moon chips &#8211; bits of the Moon blasted into space by impacts with asteroids. Some of the chips may share Earth&#8217;s orbit around the Sun. Others become &#8220;quasi&#8221;-moons. They weave around the Sun in a way that looks like they&#8217;re orbiting Earth.</p>
+<p>Astronomers have catalogued a dozen or more quasi-moons in recent years. The smallest is the size of a house. The largest is about three miles across.</p>
+<p>A recent study looked at how easy it would be to make a quasi-moon as the result of an impact. The study team simulated tens of thousands of impacts across the entire Moon, at different lunar phases and with different ejection speeds. The results showed that it&#8217;s pretty darned easy. Almost seven percent of the simulations produced objects that share Earth&#8217;s orbit. And two percent became quasi-moons. They can remain in stable orbit near Earth for thousands of years before they&#8217;re kicked away.</p>
+<p>A Chinese spacecraft is scheduled to visit one of the quasi-moons next year. It&#8217;ll collect a few ounces of dirt and pebbles and return them to Earth for study. That should tell us whether the object is a chip off the ol&#8217; Moon, or an interloper from elsewhere in the solar system.</p>
+<p>The Moon has a bright companion tonight: Antares, the brightest star of Scorpius. It&#8217;s close to the right of the Moon as they drop down the western sky in early evening.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098552/c1e-gjj61smrzrdtd940q-7z9xjgqqu6p-jx9noh.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Earth has only one moon &#8211; one large natural satellite. But it might travel with an entourage of Moon chips &#8211; bits of the Moon blasted into space by impacts with asteroids. Some of the chips may share Earth&#8217;s orbit around the Sun. Others become &#8220;quasi&#8221;-moons. They weave around the Sun in a way that looks like they&#8217;re orbiting Earth.
+Astronomers have catalogued a dozen or more quasi-moons in recent years. The smallest is the size of a house. The largest is about three miles across.
+A recent study looked at how easy it would be to make a quasi-moon as the result of an impact. The study team simulated tens of thousands of impacts across the entire Moon, at different lunar phases and with different ejection speeds. The results showed that it&#8217;s pretty darned easy. Almost seven percent of the simulations produced objects that share Earth&#8217;s orbit. And two percent became quasi-moons. They can remain in stable orbit near Earth for thousands of years before they&#8217;re kicked away.
+A Chinese spacecraft is scheduled to visit one of the quasi-moons next year. It&#8217;ll collect a few ounces of dirt and pebbles and return them to Earth for study. That should tell us whether the object is a chip off the ol&#8217; Moon, or an interloper from elsewhere in the solar system.
+The Moon has a bright companion tonight: Antares, the brightest star of Scorpius. It&#8217;s close to the right of the Moon as they drop down the western sky in early evening.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Avoiding a Collision</title>
+	<link>https://stardate.org/podcast/2025-09-26</link>
+	<pubDate>Fri, 26 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99567</guid>
+	<description><![CDATA[<p>The closest giant galaxy to the Milky Way is Messier 31, the Andromeda Galaxy. It&#8217;s two-and-a-half million light-years away. But it&#8217;s getting closer &#8211; by about 250,000 miles every hour.</p>
+<p>For more than a decade, in fact, it&#8217;s looked like the two galaxies were on a collision course. But a recent study says there&#8217;s only a 50-50 chance of a collision and merger. And if it does happen, it&#8217;ll take place billions of years later than previous estimates.</p>
+<p>The new study used years of observations by two space telescopes &#8211; Hubble and Gaia. Researchers plugged those observations into simulations that also considered the gravitational effects of two smaller galaxies. The results indicated that one of them tends to push Andromeda and the Milky Way together, while the other tends to pull them apart.</p>
+<p>The researchers ran a hundred thousand simulations. In half of them, Andromeda and the Milky Way flew past each other and went their own ways. In the other half, they eventually spiraled together and merged &#8211; but not for at least 10 billion years &#8211; twice as long as earlier estimates.</p>
+<p>The simulations aren&#8217;t the final word &#8211; there are just too many uncertainties. But for now, it seems likely that the two giants will stay apart for a long, long time.</p>
+<p>M31 is in the northeast at nightfall. Under dark skies, it&#8217;s visible as a hazy patch of light. Binoculars make it easier to pick out.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[The closest giant galaxy to the Milky Way is Messier 31, the Andromeda Galaxy. It&#8217;s two-and-a-half million light-years away. But it&#8217;s getting closer &#8211; by about 250,000 miles every hour.
+For more than a decade, in fact, it&#8217;s looked]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>The closest giant galaxy to the Milky Way is Messier 31, the Andromeda Galaxy. It&#8217;s two-and-a-half million light-years away. But it&#8217;s getting closer &#8211; by about 250,000 miles every hour.</p>
+<p>For more than a decade, in fact, it&#8217;s looked like the two galaxies were on a collision course. But a recent study says there&#8217;s only a 50-50 chance of a collision and merger. And if it does happen, it&#8217;ll take place billions of years later than previous estimates.</p>
+<p>The new study used years of observations by two space telescopes &#8211; Hubble and Gaia. Researchers plugged those observations into simulations that also considered the gravitational effects of two smaller galaxies. The results indicated that one of them tends to push Andromeda and the Milky Way together, while the other tends to pull them apart.</p>
+<p>The researchers ran a hundred thousand simulations. In half of them, Andromeda and the Milky Way flew past each other and went their own ways. In the other half, they eventually spiraled together and merged &#8211; but not for at least 10 billion years &#8211; twice as long as earlier estimates.</p>
+<p>The simulations aren&#8217;t the final word &#8211; there are just too many uncertainties. But for now, it seems likely that the two giants will stay apart for a long, long time.</p>
+<p>M31 is in the northeast at nightfall. Under dark skies, it&#8217;s visible as a hazy patch of light. Binoculars make it easier to pick out.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098550/c1e-nrr60bdz0zxtn4zor-rk3p69wvikm8-5ysefb.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[The closest giant galaxy to the Milky Way is Messier 31, the Andromeda Galaxy. It&#8217;s two-and-a-half million light-years away. But it&#8217;s getting closer &#8211; by about 250,000 miles every hour.
+For more than a decade, in fact, it&#8217;s looked like the two galaxies were on a collision course. But a recent study says there&#8217;s only a 50-50 chance of a collision and merger. And if it does happen, it&#8217;ll take place billions of years later than previous estimates.
+The new study used years of observations by two space telescopes &#8211; Hubble and Gaia. Researchers plugged those observations into simulations that also considered the gravitational effects of two smaller galaxies. The results indicated that one of them tends to push Andromeda and the Milky Way together, while the other tends to pull them apart.
+The researchers ran a hundred thousand simulations. In half of them, Andromeda and the Milky Way flew past each other and went their own ways. In the other half, they eventually spiraled together and merged &#8211; but not for at least 10 billion years &#8211; twice as long as earlier estimates.
+The simulations aren&#8217;t the final word &#8211; there are just too many uncertainties. But for now, it seems likely that the two giants will stay apart for a long, long time.
+M31 is in the northeast at nightfall. Under dark skies, it&#8217;s visible as a hazy patch of light. Binoculars make it easier to pick out.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Galactic Empire</title>
+	<link>https://stardate.org/podcast/2025-09-25</link>
+	<pubDate>Thu, 25 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99566</guid>
+	<description><![CDATA[<p>Messier 31, the Andromeda Galaxy, is the largest and most-distant object that&#8217;s easily visible to the unaided eye. Under dark skies, it looks like a skinny cloud about as wide as the Moon. Right now, it&#8217;s about a third of the way up in the northeast at nightfall.</p>
+<p>M31 is two-and-a-half million light-years away. In other words, the light you see from the galaxy tonight began its journey across the cosmos two-and-a-half million years ago. The galaxy is roughly 150,000 light-years across &#8211; bigger than the Milky Way &#8211; and may contain a trillion stars.</p>
+<p>It&#8217;s also the hub of its own galactic empire &#8211; it&#8217;s orbited by more than three dozen smaller galaxies. And a recent study revealed many new details about the satellites. Astronomers spent years looking at them with Hubble Space Telescope. And they supplemented the new observations by going through older ones.</p>
+<p>They found that most of the stars in the smaller galaxies had been born by about 12 billion years ago &#8211; when the universe was about one-tenth of its present age. And star formation had all but stopped by about eight billion years ago. Galaxies that are bigger and farther from M31 gave birth to stars a little longer than those that are small and close.</p>
+<p>One of the bigger satellites might have rammed through M31 a few million years ago. That stirred things up throughout the empire surrounding big, beautiful M31.</p>
+<p>More about M31 tomorrow.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[Messier 31, the Andromeda Galaxy, is the largest and most-distant object that&#8217;s easily visible to the unaided eye. Under dark skies, it looks like a skinny cloud about as wide as the Moon. Right now, it&#8217;s about a third of the way up in the no]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Messier 31, the Andromeda Galaxy, is the largest and most-distant object that&#8217;s easily visible to the unaided eye. Under dark skies, it looks like a skinny cloud about as wide as the Moon. Right now, it&#8217;s about a third of the way up in the northeast at nightfall.</p>
+<p>M31 is two-and-a-half million light-years away. In other words, the light you see from the galaxy tonight began its journey across the cosmos two-and-a-half million years ago. The galaxy is roughly 150,000 light-years across &#8211; bigger than the Milky Way &#8211; and may contain a trillion stars.</p>
+<p>It&#8217;s also the hub of its own galactic empire &#8211; it&#8217;s orbited by more than three dozen smaller galaxies. And a recent study revealed many new details about the satellites. Astronomers spent years looking at them with Hubble Space Telescope. And they supplemented the new observations by going through older ones.</p>
+<p>They found that most of the stars in the smaller galaxies had been born by about 12 billion years ago &#8211; when the universe was about one-tenth of its present age. And star formation had all but stopped by about eight billion years ago. Galaxies that are bigger and farther from M31 gave birth to stars a little longer than those that are small and close.</p>
+<p>One of the bigger satellites might have rammed through M31 a few million years ago. That stirred things up throughout the empire surrounding big, beautiful M31.</p>
+<p>More about M31 tomorrow.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098545/c1e-o006nb2jdjxug0nmz-9jq3xz0rhjkj-rkiljw.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Messier 31, the Andromeda Galaxy, is the largest and most-distant object that&#8217;s easily visible to the unaided eye. Under dark skies, it looks like a skinny cloud about as wide as the Moon. Right now, it&#8217;s about a third of the way up in the northeast at nightfall.
+M31 is two-and-a-half million light-years away. In other words, the light you see from the galaxy tonight began its journey across the cosmos two-and-a-half million years ago. The galaxy is roughly 150,000 light-years across &#8211; bigger than the Milky Way &#8211; and may contain a trillion stars.
+It&#8217;s also the hub of its own galactic empire &#8211; it&#8217;s orbited by more than three dozen smaller galaxies. And a recent study revealed many new details about the satellites. Astronomers spent years looking at them with Hubble Space Telescope. And they supplemented the new observations by going through older ones.
+They found that most of the stars in the smaller galaxies had been born by about 12 billion years ago &#8211; when the universe was about one-tenth of its present age. And star formation had all but stopped by about eight billion years ago. Galaxies that are bigger and farther from M31 gave birth to stars a little longer than those that are small and close.
+One of the bigger satellites might have rammed through M31 a few million years ago. That stirred things up throughout the empire surrounding big, beautiful M31.
+More about M31 tomorrow.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Geoffrey Burbidge</title>
+	<link>https://stardate.org/podcast/2025-09-24</link>
+	<pubDate>Wed, 24 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99565</guid>
+	<description><![CDATA[<p>People become astronomers for many reasons: They&#8217;re interested in the workings of the stars, or the quest to find life in the universe, or the fate of the universe itself. Geoffrey Burbidge joked that he became an astronomer because he married one. He and his wife, Margaret, were astronomy&#8217;s power couple.</p>
+<p>And they co-authored one of the most important studies of the 20th century.</p>
+<p>Burbidge was born 100 years ago today, in the English village of Chipping Norton. He first studied history, but switched to physics. After earning his undergraduate degree, shortly after World War II, he developed bombs for a while. Back in academia, he married Margaret, and they hopped around England and the United States over the next few decades.</p>
+<p>Burbidge contributed to many areas of astronomy theory. But he&#8217;s best known for a single paper, known as B-squared-F-H for the names of its authors &#8211; the two Burbidges, William Fowler, and Fred Hoyle.</p>
+<p>In it, they explained how stars forge most of the elements in the universe. Many elements are created in a star&#8217;s core during its long life; others, in the violent deaths of stars. Some of the elements are expelled into space, where they can be incorporated into new stars. The newer generations make even more elements &#8211; eventually creating the chemistry we see in the universe today. So the paper showed that we&#8217;re all made of &#8220;starstuff&#8221; &#8211; elements created in the stars.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[People become astronomers for many reasons: They&#8217;re interested in the workings of the stars, or the quest to find life in the universe, or the fate of the universe itself. Geoffrey Burbidge joked that he became an astronomer because he married one.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>People become astronomers for many reasons: They&#8217;re interested in the workings of the stars, or the quest to find life in the universe, or the fate of the universe itself. Geoffrey Burbidge joked that he became an astronomer because he married one. He and his wife, Margaret, were astronomy&#8217;s power couple.</p>
+<p>And they co-authored one of the most important studies of the 20th century.</p>
+<p>Burbidge was born 100 years ago today, in the English village of Chipping Norton. He first studied history, but switched to physics. After earning his undergraduate degree, shortly after World War II, he developed bombs for a while. Back in academia, he married Margaret, and they hopped around England and the United States over the next few decades.</p>
+<p>Burbidge contributed to many areas of astronomy theory. But he&#8217;s best known for a single paper, known as B-squared-F-H for the names of its authors &#8211; the two Burbidges, William Fowler, and Fred Hoyle.</p>
+<p>In it, they explained how stars forge most of the elements in the universe. Many elements are created in a star&#8217;s core during its long life; others, in the violent deaths of stars. Some of the elements are expelled into space, where they can be incorporated into new stars. The newer generations make even more elements &#8211; eventually creating the chemistry we see in the universe today. So the paper showed that we&#8217;re all made of &#8220;starstuff&#8221; &#8211; elements created in the stars.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098544/c1e-xkk9rs91w1kt4w706-6z3qjmwwi90-1rtebk.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[People become astronomers for many reasons: They&#8217;re interested in the workings of the stars, or the quest to find life in the universe, or the fate of the universe itself. Geoffrey Burbidge joked that he became an astronomer because he married one. He and his wife, Margaret, were astronomy&#8217;s power couple.
+And they co-authored one of the most important studies of the 20th century.
+Burbidge was born 100 years ago today, in the English village of Chipping Norton. He first studied history, but switched to physics. After earning his undergraduate degree, shortly after World War II, he developed bombs for a while. Back in academia, he married Margaret, and they hopped around England and the United States over the next few decades.
+Burbidge contributed to many areas of astronomy theory. But he&#8217;s best known for a single paper, known as B-squared-F-H for the names of its authors &#8211; the two Burbidges, William Fowler, and Fred Hoyle.
+In it, they explained how stars forge most of the elements in the universe. Many elements are created in a star&#8217;s core during its long life; others, in the violent deaths of stars. Some of the elements are expelled into space, where they can be incorporated into new stars. The newer generations make even more elements &#8211; eventually creating the chemistry we see in the universe today. So the paper showed that we&#8217;re all made of &#8220;starstuff&#8221; &#8211; elements created in the stars.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Neptune at Opposition</title>
+	<link>https://stardate.org/podcast/2025-09-23</link>
+	<pubDate>Tue, 23 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99564</guid>
+	<description><![CDATA[<p>Neptune is one of the giants of the solar system. But it&#8217;s so far away that it&#8217;s tough to study. We know little about its interior. And much of what scientists think they know comes from lab experiments and computer models.</p>
+<p>Neptune is the Sun&#8217;s most remote major planet. So although it&#8217;s almost four times Earth&#8217;s diameter, it&#8217;s a tiny target for telescopes. And only one spacecraft has ever visited the planet &#8211; Voyager 2, in 1989.</p>
+<p>From those observations, along with those from telescopes on the ground and in space, scientists have developed a model of how Neptune is put together. It probably has a dense, rocky core, surrounded by an &#8220;ocean&#8221; of super-heated water, ammonia, and methane. The pressure squeezes this layer so tightly that the compounds act like ice.</p>
+<p>Around that is a layer of hydrogen, which is topped by a methane-rich atmosphere. The methane absorbs red light, giving the planet a blue-green color.</p>
+<p>It&#8217;ll be decades before another mission can approach Neptune. Until then, we&#8217;ll have to rely on a lot more calculations to understand this remote giant.</p>
+<p>Neptune is at its best right now. It&#8217;s in view all night and it&#8217;s brightest for the year. Even so, you need a telescope to spot it. But you can easily spot its location. As night falls, look for Saturn, which looks like a bright star, low in the east. Neptune is to the left of Saturn, by a bit more than a finger held at arm&#8217;s length.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[Neptune is one of the giants of the solar system. But it&#8217;s so far away that it&#8217;s tough to study. We know little about its interior. And much of what scientists think they know comes from lab experiments and computer models.
+Neptune is the Sun]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Neptune is one of the giants of the solar system. But it&#8217;s so far away that it&#8217;s tough to study. We know little about its interior. And much of what scientists think they know comes from lab experiments and computer models.</p>
+<p>Neptune is the Sun&#8217;s most remote major planet. So although it&#8217;s almost four times Earth&#8217;s diameter, it&#8217;s a tiny target for telescopes. And only one spacecraft has ever visited the planet &#8211; Voyager 2, in 1989.</p>
+<p>From those observations, along with those from telescopes on the ground and in space, scientists have developed a model of how Neptune is put together. It probably has a dense, rocky core, surrounded by an &#8220;ocean&#8221; of super-heated water, ammonia, and methane. The pressure squeezes this layer so tightly that the compounds act like ice.</p>
+<p>Around that is a layer of hydrogen, which is topped by a methane-rich atmosphere. The methane absorbs red light, giving the planet a blue-green color.</p>
+<p>It&#8217;ll be decades before another mission can approach Neptune. Until then, we&#8217;ll have to rely on a lot more calculations to understand this remote giant.</p>
+<p>Neptune is at its best right now. It&#8217;s in view all night and it&#8217;s brightest for the year. Even so, you need a telescope to spot it. But you can easily spot its location. As night falls, look for Saturn, which looks like a bright star, low in the east. Neptune is to the left of Saturn, by a bit more than a finger held at arm&#8217;s length.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098543/c1e-288jqbmq2qqtnj754-6z3qjmdphp1v-qk13c9.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Neptune is one of the giants of the solar system. But it&#8217;s so far away that it&#8217;s tough to study. We know little about its interior. And much of what scientists think they know comes from lab experiments and computer models.
+Neptune is the Sun&#8217;s most remote major planet. So although it&#8217;s almost four times Earth&#8217;s diameter, it&#8217;s a tiny target for telescopes. And only one spacecraft has ever visited the planet &#8211; Voyager 2, in 1989.
+From those observations, along with those from telescopes on the ground and in space, scientists have developed a model of how Neptune is put together. It probably has a dense, rocky core, surrounded by an &#8220;ocean&#8221; of super-heated water, ammonia, and methane. The pressure squeezes this layer so tightly that the compounds act like ice.
+Around that is a layer of hydrogen, which is topped by a methane-rich atmosphere. The methane absorbs red light, giving the planet a blue-green color.
+It&#8217;ll be decades before another mission can approach Neptune. Until then, we&#8217;ll have to rely on a lot more calculations to understand this remote giant.
+Neptune is at its best right now. It&#8217;s in view all night and it&#8217;s brightest for the year. Even so, you need a telescope to spot it. But you can easily spot its location. As night falls, look for Saturn, which looks like a bright star, low in the east. Neptune is to the left of Saturn, by a bit more than a finger held at arm&#8217;s length.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Falling into Autumn</title>
+	<link>https://stardate.org/podcast/2025-09-22</link>
+	<pubDate>Mon, 22 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99563</guid>
+	<description><![CDATA[<p>Earth &#8220;falls&#8221; into a new season today &#8211; astronomically speaking. It&#8217;s the September equinox, when the Sun crosses the equator from north to south. It marks the start of autumn in the northern hemisphere, and spring in the southern hemisphere.</p>
+<p>On the equinoxes, neither the north pole nor the south pole tips toward the Sun, so night and day are roughly the same length in both hemispheres &#8211; about 12 hours between sunrise and sunset.</p>
+<p>We say &#8220;roughly&#8221; because there are a couple of caveats.</p>
+<p>One is the way we calculate the times of sunrise and sunset. For the days to be truly equal, we&#8217;d have to mark the times when the Sun is bisected by the horizon &#8211; half in view, half still hidden. But we don&#8217;t. Instead, sunrise is the moment when the Sun first peeks into view, and sunset is the moment when the limb of the Sun drops from view. That adds a couple of minutes to the day.</p>
+<p>The other correction factor is Earth&#8217;s atmosphere. It &#8220;bends&#8221; the sunlight above the horizon. So when we see the Sun standing just atop the horizon, it&#8217;s actually a little below it.</p>
+<p>That combination adds a few minutes to the equinox &#8220;day.&#8221; So at the equator, daylight lasts for 12 hours plus six and a half minutes. At 30 degrees north &#8211; the latitude of Austin &#8211; it&#8217;s 12 hours and eight minutes. And at 60 degrees &#8211; roughly the latitude of Anchorage &#8211; it&#8217;s 12 hours and 16 minutes &#8211; an extra dose of sunlight as we fall into autumn.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[Earth &#8220;falls&#8221; into a new season today &#8211; astronomically speaking. It&#8217;s the September equinox, when the Sun crosses the equator from north to south. It marks the start of autumn in the northern hemisphere, and spring in the southern]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Earth &#8220;falls&#8221; into a new season today &#8211; astronomically speaking. It&#8217;s the September equinox, when the Sun crosses the equator from north to south. It marks the start of autumn in the northern hemisphere, and spring in the southern hemisphere.</p>
+<p>On the equinoxes, neither the north pole nor the south pole tips toward the Sun, so night and day are roughly the same length in both hemispheres &#8211; about 12 hours between sunrise and sunset.</p>
+<p>We say &#8220;roughly&#8221; because there are a couple of caveats.</p>
+<p>One is the way we calculate the times of sunrise and sunset. For the days to be truly equal, we&#8217;d have to mark the times when the Sun is bisected by the horizon &#8211; half in view, half still hidden. But we don&#8217;t. Instead, sunrise is the moment when the Sun first peeks into view, and sunset is the moment when the limb of the Sun drops from view. That adds a couple of minutes to the day.</p>
+<p>The other correction factor is Earth&#8217;s atmosphere. It &#8220;bends&#8221; the sunlight above the horizon. So when we see the Sun standing just atop the horizon, it&#8217;s actually a little below it.</p>
+<p>That combination adds a few minutes to the equinox &#8220;day.&#8221; So at the equator, daylight lasts for 12 hours plus six and a half minutes. At 30 degrees north &#8211; the latitude of Austin &#8211; it&#8217;s 12 hours and eight minutes. And at 60 degrees &#8211; roughly the latitude of Anchorage &#8211; it&#8217;s 12 hours and 16 minutes &#8211; an extra dose of sunlight as we fall into autumn.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098542/c1e-444jqf18z81hjgp9k-okzj6x41tgq-7mxeob.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Earth &#8220;falls&#8221; into a new season today &#8211; astronomically speaking. It&#8217;s the September equinox, when the Sun crosses the equator from north to south. It marks the start of autumn in the northern hemisphere, and spring in the southern hemisphere.
+On the equinoxes, neither the north pole nor the south pole tips toward the Sun, so night and day are roughly the same length in both hemispheres &#8211; about 12 hours between sunrise and sunset.
+We say &#8220;roughly&#8221; because there are a couple of caveats.
+One is the way we calculate the times of sunrise and sunset. For the days to be truly equal, we&#8217;d have to mark the times when the Sun is bisected by the horizon &#8211; half in view, half still hidden. But we don&#8217;t. Instead, sunrise is the moment when the Sun first peeks into view, and sunset is the moment when the limb of the Sun drops from view. That adds a couple of minutes to the day.
+The other correction factor is Earth&#8217;s atmosphere. It &#8220;bends&#8221; the sunlight above the horizon. So when we see the Sun standing just atop the horizon, it&#8217;s actually a little below it.
+That combination adds a few minutes to the equinox &#8220;day.&#8221; So at the equator, daylight lasts for 12 hours plus six and a half minutes. At 30 degrees north &#8211; the latitude of Austin &#8211; it&#8217;s 12 hours and eight minutes. And at 60 degrees &#8211; roughly the latitude of Anchorage &#8211; it&#8217;s 12 hours and 16 minutes &#8211; an extra dose of sunlight as we fall into autumn.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>More Saturn at Opposition</title>
+	<link>https://stardate.org/podcast/2025-09-21</link>
+	<pubDate>Sun, 21 Sep 2025 05:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[Billy Henry]]></dc:creator>
+	<guid isPermaLink="false">https://stardate.org/?post_type=podcast&#038;p=99562</guid>
+	<description><![CDATA[<p>Officially, Saturn has 274 known moons. Un-officially, it has billions upon billions of them &#8211; the bits of ice and rock that make up the planet&#8217;s rings. They range from the size of dust grains to giant boulders. All of them orbit the giant planet like tiny moons.</p>
+<p>The system consists of three main bands, which are easy to see. Together, they span about three-quarters of the distance between Earth and the Moon. But there are some thinner, fainter bands as well. One is closer to Saturn than the main bands, while the others are farther.</p>
+<p>Despite their great span, the rings are quite thin &#8211; generally no more than a few dozen feet thick. Individual rings are held in check by the gravity of some of Saturn&#8217;s moons and &#8220;moonlets&#8221; &#8211; bodies no more than a few hundred feet in diameter that orbit inside the ring system. In some cases, they force the rings to intertwine like the braids in a loaf of challah bread.</p>
+<p>Scientists are still debating the age of the rings. Estimates range from a hundred million years to more than four billion. Either way, the rings are constantly replenished with fresh supplies of ice and dust &#8211; sustaining one of the most amazing features in the solar system.</p>
+<p>Saturn is at its best for the entire year. It looks like a bright star, low in the east at nightfall and climbing high across the south during the night. Telescopes reveal the planet&#8217;s beautiful rings.</p>
+<p>Script by Damond Benningfield</p>]]></description>
+	<itunes:subtitle><![CDATA[Officially, Saturn has 274 known moons. Un-officially, it has billions upon billions of them &#8211; the bits of ice and rock that make up the planet&#8217;s rings. They range from the size of dust grains to giant boulders. All of them orbit the giant pl]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Officially, Saturn has 274 known moons. Un-officially, it has billions upon billions of them &#8211; the bits of ice and rock that make up the planet&#8217;s rings. They range from the size of dust grains to giant boulders. All of them orbit the giant planet like tiny moons.</p>
+<p>The system consists of three main bands, which are easy to see. Together, they span about three-quarters of the distance between Earth and the Moon. But there are some thinner, fainter bands as well. One is closer to Saturn than the main bands, while the others are farther.</p>
+<p>Despite their great span, the rings are quite thin &#8211; generally no more than a few dozen feet thick. Individual rings are held in check by the gravity of some of Saturn&#8217;s moons and &#8220;moonlets&#8221; &#8211; bodies no more than a few hundred feet in diameter that orbit inside the ring system. In some cases, they force the rings to intertwine like the braids in a loaf of challah bread.</p>
+<p>Scientists are still debating the age of the rings. Estimates range from a hundred million years to more than four billion. Either way, the rings are constantly replenished with fresh supplies of ice and dust &#8211; sustaining one of the most amazing features in the solar system.</p>
+<p>Saturn is at its best for the entire year. It looks like a bright star, low in the east at nightfall and climbing high across the south during the night. Telescopes reveal the planet&#8217;s beautiful rings.</p>
+<p>Script by Damond Benningfield</p>]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/62e982cb693653-86607172/2098541/c1e-w4439f3vmvrsvmgxo-347mjrkpf47-ang11p.mp3" length="1079904" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Officially, Saturn has 274 known moons. Un-officially, it has billions upon billions of them &#8211; the bits of ice and rock that make up the planet&#8217;s rings. They range from the size of dust grains to giant boulders. All of them orbit the giant planet like tiny moons.
+The system consists of three main bands, which are easy to see. Together, they span about three-quarters of the distance between Earth and the Moon. But there are some thinner, fainter bands as well. One is closer to Saturn than the main bands, while the others are farther.
+Despite their great span, the rings are quite thin &#8211; generally no more than a few dozen feet thick. Individual rings are held in check by the gravity of some of Saturn&#8217;s moons and &#8220;moonlets&#8221; &#8211; bodies no more than a few hundred feet in diameter that orbit inside the ring system. In some cases, they force the rings to intertwine like the braids in a loaf of challah bread.
+Scientists are still debating the age of the rings. Estimates range from a hundred million years to more than four billion. Either way, the rings are constantly replenished with fresh supplies of ice and dust &#8211; sustaining one of the most amazing features in the solar system.
+Saturn is at its best for the entire year. It looks like a bright star, low in the east at nightfall and climbing high across the south during the night. Telescopes reveal the planet&#8217;s beautiful rings.
+Script by Damond Benningfield]]></itunes:summary>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:02:15</itunes:duration>
+	<itunes:author><![CDATA[Billy Henry]]></itunes:author>	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+	</channel>
+</rss>

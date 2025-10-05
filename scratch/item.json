@@ -1,0 +1,484 @@
+[
+  {
+    "id": 99719,
+    "date": "2025-10-01T00:00:00",
+    "date_gmt": "2025-10-01T05:00:00",
+    "guid": {
+      "rendered": "https://stardate.org/?post_type=podcast&#038;p=99719"
+    },
+    "modified": "2025-08-15T08:42:36",
+    "modified_gmt": "2025-08-15T13:42:36",
+    "slug": "2025-10-01",
+    "status": "publish",
+    "type": "podcast",
+    "link": "https://stardate.org/podcast/2025-10-01",
+    "title": {
+      "rendered": "Armed Constellations"
+    },
+    "content": {
+      "rendered": "\u003Cp\u003EThe constellations are well armed. Several of the star patterns that depict people or gods are carrying weapons. And some of them are in good view at this time of year.\u003C/p\u003E\n\u003Cp\u003EAs darkness falls, look low in the west for the brilliant star Arcturus. It stands at the base of Botes the herdsman. Like many of the ancient star figures,\u003C/p\u003E\n\u003Cp\u003EBotes has different stories, and is drawn in different ways. In most depictions, he&#8217;s holding something long and straight against his right side. In some cases, it&#8217;s a staff. But in others, it&#8217;s a spear.\u003C/p\u003E\n\u003Cp\u003EWell above Botes is Hercules, marked by a lopsided box of four stars. He&#8217;s wrestling the multi-headed hydra. And in some depictions, he&#8217;s holding up a club.\u003C/p\u003E\n\u003Cp\u003EIn the south, look for Sagittarius. To modern eyes, it forms the outline of a teapot. But to the ancients, those stars formed an archer. The star at the outer edge of the spout is the point where he&#8217;s gripping both bow and arrow.\u003C/p\u003E\n\u003Cp\u003EAnd low in the northeast there&#8217;s a figure with a unique weapon. Perseus the hero is holding the head of Medusa. In mythology, anyone looking at Medusa was turned to stone. Perseus managed to sever the head, then used it to save the princess Andromeda from a monster.\u003C/p\u003E\n\u003Cp\u003EAnd if you&#8217;re stargazing before dawn, there&#8217;s another armed figure, well up in the south: Orion the hunter. He has two weapons. He&#8217;s holding a club in an upraised arm, with a sword strapped to his belt &#8211; a heavily armed figure in the stars.\u003C/p\u003E\n\u003Cp\u003EScript by Damond Benningfield\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "A celestial arms race",
+      "protected": false
+    },
+    "author": 23809,
+    "featured_media": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_uag_custom_page_level_css": "",
+      "site-sidebar-layout": "default",
+      "site-content-layout": "",
+      "ast-site-content-layout": "default",
+      "site-content-style": "default",
+      "site-sidebar-style": "default",
+      "ast-global-header-display": "",
+      "ast-banner-title-visibility": "",
+      "ast-main-header-display": "",
+      "ast-hfb-above-header-display": "",
+      "ast-hfb-below-header-display": "",
+      "ast-hfb-mobile-header-display": "",
+      "site-post-title": "",
+      "ast-breadcrumbs-content": "",
+      "ast-featured-img": "",
+      "footer-sml-layout": "",
+      "theme-transparent-header-meta": "",
+      "adv-header-id-meta": "",
+      "stick-header-meta": "",
+      "header-above-stick-meta": "",
+      "header-main-stick-meta": "",
+      "header-below-stick-meta": "",
+      "astra-migrate-meta-layouts": "set",
+      "ast-page-background-enabled": "default",
+      "ast-page-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "ast-content-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "sync_status": "synced",
+      "episode_type": "audio",
+      "audio_file": "https://episodes.castos.com/62e982cb693653-86607172/2112393/c1e-z110nb79k9db5rkqp-6z3n4123tz07-ynd2yd.mp3",
+      "essp_premium_audio_file": "https://episodes.castos.com/62e982cb693653-86607172/2112463/c1e-9ggxvad47p2u0k4x1-6z3n48mjs56o-sljtdp.mp3",
+      "essp_audio_attachment_id": "",
+      "castos_file_data": "",
+      "podmotor_file_id": "1954459",
+      "cover_image": "",
+      "cover_image_id": "",
+      "duration": "00:02:20",
+      "filesize": "1116766",
+      "filesize_raw": "1116766",
+      "date_recorded": "2025-10-01 00:00:00",
+      "explicit": "",
+      "block": "",
+      "itunes_episode_number": "",
+      "itunes_title": "",
+      "itunes_season_number": "",
+      "itunes_episode_type": ""
+    },
+    "tags": [],
+    "grade_level": [],
+    "keyword": [],
+    "subject_areas": [],
+    "series": [794],
+    "class_list": [
+      "post-99719",
+      "podcast",
+      "type-podcast",
+      "status-publish",
+      "hentry",
+      "series-stardate"
+    ],
+    "episode_featured_image": false,
+    "episode_player_image": "https://stardate.org/wp-content/uploads/2023/08/stardate-logo-spaced.png",
+    "download_link": "https://stardate.org/podcast-download/99719/2025-10-01",
+    "player_link": "https://stardate.org/podcast-player/99719/2025-10-01",
+    "audio_player": null,
+    "episode_data": {
+      "playerMode": "dark",
+      "subscribeUrls": {
+        "apple_podcasts": {
+          "key": "apple_podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/stardate-podcast/id1293896506",
+          "label": "Apple Podcasts",
+          "class": "apple_podcasts",
+          "icon": "apple-podcasts.png"
+        },
+        "stitcher": {
+          "key": "stitcher",
+          "url": "https://www.stitcher.com/show/stardate-podcast",
+          "label": "Stitcher",
+          "class": "stitcher",
+          "icon": "stitcher.png"
+        },
+        "google_podcasts": {
+          "key": "google_podcasts",
+          "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9zdGFyZGF0ZS5vcmcvZmVlZHMvcG9kY2FzdC54bWw=",
+          "label": "Google Podcasts",
+          "class": "google_podcasts",
+          "icon": "google-podcasts.png"
+        },
+        "spotify": {
+          "key": "spotify",
+          "url": "https://open.spotify.com/show/1rUsPr359FXUOlnVbZDUDx?si=21f9032f859c4a99",
+          "label": "Spotify",
+          "class": "spotify",
+          "icon": "spotify.png"
+        }
+      },
+      "rssFeedUrl": "https://stardate.org/feed/podcast/stardate",
+      "embedCode": "\u003Cblockquote class=\"wp-embedded-content\" data-secret=\"ZZsAiyKNaF\"\u003E\u003Ca href=\"https://stardate.org/podcast/2025-10-01\"\u003EArmed Constellations\u003C/a\u003E\u003C/blockquote\u003E\u003Ciframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://stardate.org/podcast/2025-10-01/embed#?secret=ZZsAiyKNaF\" width=\"500\" height=\"350\" title=\"&#8220;Armed Constellations&#8221; &#8212; StarDate Online\" data-secret=\"ZZsAiyKNaF\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"\u003E\u003C/iframe\u003E\u003Cscript\u003E\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i\u003Co.length;i++)o[i].style.display=\"none\";for(i=0;i\u003Ca.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3\u003C(r=parseInt(t.value,10))?r=1e3:~~r\u003C200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r\u003Cs.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n\u003C/script\u003E\n",
+      "syncStatus": {
+        "isSynced": true,
+        "status": "synced",
+        "error": "",
+        "message": "Sync with Castos complete.",
+        "title": "Synced"
+      }
+    },
+    "yoast_head": "\u003C!-- This site is optimized with the Yoast SEO plugin v25.9 - https://yoast.com/wordpress/plugins/seo/ --\u003E\n\u003Ctitle\u003EArmed Constellations: October 1, 2025 &#8212; StarDate Online\u003C/title\u003E\n\u003Cmeta name=\"description\" content=\"A celestial arms race\" /\u003E\n\u003Cmeta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" /\u003E\n\u003Clink rel=\"canonical\" href=\"https://stardate.org/podcast/2025-10-01\" /\u003E\n\u003Cmeta property=\"og:locale\" content=\"en_US\" /\u003E\n\u003Cmeta property=\"og:type\" content=\"article\" /\u003E\n\u003Cmeta property=\"og:title\" content=\"Armed Constellations: October 1, 2025 &#8212; StarDate Online\" /\u003E\n\u003Cmeta property=\"og:description\" content=\"A celestial arms race\" /\u003E\n\u003Cmeta property=\"og:url\" content=\"https://stardate.org/podcast/2025-10-01\" /\u003E\n\u003Cmeta property=\"og:site_name\" content=\"StarDate Online\" /\u003E\n\u003Cmeta property=\"article:publisher\" content=\"https://facebook.com/stardate\" /\u003E\n\u003Cmeta name=\"twitter:card\" content=\"summary_large_image\" /\u003E\n\u003Cmeta name=\"twitter:site\" content=\"@stardate\" /\u003E\n\u003Cmeta name=\"twitter:label1\" content=\"Est. reading time\" /\u003E\n\t\u003Cmeta name=\"twitter:data1\" content=\"2 minutes\" /\u003E\n\u003Cscript type=\"application/ld+json\" class=\"yoast-schema-graph\"\u003E{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://stardate.org/podcast/2025-10-01#article\",\"isPartOf\":{\"@id\":\"https://stardate.org/podcast/2025-10-01\"},\"author\":{\"name\":\"Casey Walker\",\"@id\":\"https://stardate.org/#/schema/person/de826861ee3eb25ad9e2117316598836\"},\"headline\":\"Armed Constellations\",\"datePublished\":\"2025-10-01T05:00:00+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://stardate.org/podcast/2025-10-01\"},\"wordCount\":278,\"publisher\":{\"@id\":\"https://stardate.org/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://stardate.org/podcast/2025-10-01\",\"url\":\"https://stardate.org/podcast/2025-10-01\",\"name\":\"Armed Constellations: October 1, 2025 &#8212; StarDate Online\",\"isPartOf\":{\"@id\":\"https://stardate.org/#website\"},\"datePublished\":\"2025-10-01T05:00:00+00:00\",\"description\":\"A celestial arms race\",\"breadcrumb\":{\"@id\":\"https://stardate.org/podcast/2025-10-01#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://stardate.org/podcast/2025-10-01\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://stardate.org/podcast/2025-10-01#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://stardate.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Episode\",\"item\":\"https://stardate.org/podcast\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Armed Constellations\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://stardate.org/#website\",\"url\":\"https://stardate.org/\",\"name\":\"StarDate Online\",\"description\":\"Your guide to the universe\",\"publisher\":{\"@id\":\"https://stardate.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://stardate.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://stardate.org/#organization\",\"name\":\"StarDate Online\",\"url\":\"https://stardate.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://stardate.org/#/schema/logo/image/\",\"url\":\"https://stardate.org/wp-content/uploads/2022/09/stardate-logo.svg\",\"contentUrl\":\"https://stardate.org/wp-content/uploads/2022/09/stardate-logo.svg\",\"width\":260,\"height\":99,\"caption\":\"StarDate Online\"},\"image\":{\"@id\":\"https://stardate.org/#/schema/logo/image/\"},\"sameAs\":[\"https://facebook.com/stardate\",\"https://x.com/stardate\",\"https://www.youtube.com/user/mcdonaldobservatory\"]},{\"@type\":\"Person\",\"@id\":\"https://stardate.org/#/schema/person/de826861ee3eb25ad9e2117316598836\",\"name\":\"Casey Walker\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://stardate.org/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/df9d9ea374c9d00790002355176dda32869b1452137a84fc430c36b54f221100?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/df9d9ea374c9d00790002355176dda32869b1452137a84fc430c36b54f221100?s=96&d=mm&r=g\",\"caption\":\"Casey Walker\"},\"sameAs\":[\"https://stardate.org\"]}]}\u003C/script\u003E\n\u003C!-- / Yoast SEO plugin. --\u003E",
+    "yoast_head_json": {
+      "title": "Armed Constellations: October 1, 2025 &#8212; StarDate Online",
+      "description": "A celestial arms race",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://stardate.org/podcast/2025-10-01",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Armed Constellations: October 1, 2025 &#8212; StarDate Online",
+      "og_description": "A celestial arms race",
+      "og_url": "https://stardate.org/podcast/2025-10-01",
+      "og_site_name": "StarDate Online",
+      "article_publisher": "https://facebook.com/stardate",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@stardate",
+      "twitter_misc": {
+        "Est. reading time": "2 minutes"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://stardate.org/podcast/2025-10-01#article",
+            "isPartOf": {
+              "@id": "https://stardate.org/podcast/2025-10-01"
+            },
+            "author": {
+              "name": "Casey Walker",
+              "@id": "https://stardate.org/#/schema/person/de826861ee3eb25ad9e2117316598836"
+            },
+            "headline": "Armed Constellations",
+            "datePublished": "2025-10-01T05:00:00+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://stardate.org/podcast/2025-10-01"
+            },
+            "wordCount": 278,
+            "publisher": {
+              "@id": "https://stardate.org/#organization"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://stardate.org/podcast/2025-10-01",
+            "url": "https://stardate.org/podcast/2025-10-01",
+            "name": "Armed Constellations: October 1, 2025 &#8212; StarDate Online",
+            "isPartOf": {
+              "@id": "https://stardate.org/#website"
+            },
+            "datePublished": "2025-10-01T05:00:00+00:00",
+            "description": "A celestial arms race",
+            "breadcrumb": {
+              "@id": "https://stardate.org/podcast/2025-10-01#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://stardate.org/podcast/2025-10-01"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://stardate.org/podcast/2025-10-01#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://stardate.org/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Episode",
+                "item": "https://stardate.org/podcast"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Armed Constellations"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://stardate.org/#website",
+            "url": "https://stardate.org/",
+            "name": "StarDate Online",
+            "description": "Your guide to the universe",
+            "publisher": {
+              "@id": "https://stardate.org/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://stardate.org/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://stardate.org/#organization",
+            "name": "StarDate Online",
+            "url": "https://stardate.org/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://stardate.org/#/schema/logo/image/",
+              "url": "https://stardate.org/wp-content/uploads/2022/09/stardate-logo.svg",
+              "contentUrl": "https://stardate.org/wp-content/uploads/2022/09/stardate-logo.svg",
+              "width": 260,
+              "height": 99,
+              "caption": "StarDate Online"
+            },
+            "image": {
+              "@id": "https://stardate.org/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://facebook.com/stardate",
+              "https://x.com/stardate",
+              "https://www.youtube.com/user/mcdonaldobservatory"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://stardate.org/#/schema/person/de826861ee3eb25ad9e2117316598836",
+            "name": "Casey Walker",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://stardate.org/#/schema/person/image/",
+              "url": "https://secure.gravatar.com/avatar/df9d9ea374c9d00790002355176dda32869b1452137a84fc430c36b54f221100?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/df9d9ea374c9d00790002355176dda32869b1452137a84fc430c36b54f221100?s=96&d=mm&r=g",
+              "caption": "Casey Walker"
+            },
+            "sameAs": [
+              "https://stardate.org"
+            ]
+          }
+        ]
+      }
+    },
+    "uagb_featured_image_src": {
+      "full": false,
+      "thumbnail": false,
+      "medium": false,
+      "medium_large": false,
+      "large": false,
+      "1536x1536": false,
+      "2048x2048": false,
+      "gform-image-choice-sm": false,
+      "gform-image-choice-md": false,
+      "gform-image-choice-lg": false,
+      "mailpoet_newsletter_max": false,
+      "woocommerce_thumbnail": false,
+      "woocommerce_single": false,
+      "woocommerce_gallery_thumbnail": false
+    },
+    "uagb_author_info": {
+      "display_name": "Casey Walker",
+      "author_link": "https://stardate.org/author/casey"
+    },
+    "uagb_comment_info": 0,
+    "uagb_excerpt": "A celestial arms race",
+    "_links": {
+      "self": [
+        {
+          "href": "https://stardate.org/wp-json/wp/v2/podcast/99719",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://stardate.org/wp-json/wp/v2/podcast"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://stardate.org/wp-json/wp/v2/types/podcast"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://stardate.org/wp-json/wp/v2/users/23809"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://stardate.org/wp-json/wp/v2/comments?post=99719"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://stardate.org/wp-json/wp/v2/media?parent=99719"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://stardate.org/wp-json/wp/v2/tags?post=99719"
+        },
+        {
+          "taxonomy": "grade_level",
+          "embeddable": true,
+          "href": "https://stardate.org/wp-json/wp/v2/grade_level?post=99719"
+        },
+        {
+          "taxonomy": "keyword",
+          "embeddable": true,
+          "href": "https://stardate.org/wp-json/wp/v2/keyword?post=99719"
+        },
+        {
+          "taxonomy": "subject_areas",
+          "embeddable": true,
+          "href": "https://stardate.org/wp-json/wp/v2/subject_areas?post=99719"
+        },
+        {
+          "taxonomy": "series",
+          "embeddable": true,
+          "href": "https://stardate.org/wp-json/wp/v2/series?post=99719"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

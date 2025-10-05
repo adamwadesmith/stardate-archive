@@ -1,0 +1,67 @@
+Notes.txt
+
+Review Python and functional programming library
+
+wordpress REST API handbook: https://developer.wordpress.org/rest-api/
+
+
+Assumptions
+
+Item Mapping
+*******
+<title>                         title.rendered
+<link>                          link
+<pubDate>                       date_gmt as Tue, 30 Sep 2025 05:00:00 +0000
+<dc:creator>                    <![CDATA[Billy Henry]]>
+<guid isPermaLink="false">      guid.rendered
+<description>                   content.rendered, wrapped in cdata
+<itunes:subtitle>               excerpt.rendered, wrapped in cdata
+<enclosure>
+    url                         meta.audiofile
+    length                      meta.filesize
+    type                        "audio/mpeg"
+<itunes:explicit>false</itunes:explicit>
+<itunes:block>no</itunes:block>
+<itunes:duration>               meta.duration
+<itunes:author><![CDATA[Billy Henry]]></itunes:author>	
+<googleplay:explicit>No</googleplay:explicit>
+<googleplay:block>no</googleplay:block>
+
+REST query:
+
+https://stardate.org/wp-json/ssp/v1/episodes?per_page=5&page=1&_fields=title,link,date_gmt,guid,content,excerpt,meta.audio_file,meta.filesize,meta.duration
+
+ascending
+https://stardate.org/wp-json/ssp/v1/episodes?per_page=5&page=1&order=asc&_fields=title,link,date_gmt,guid,content,excerpt,meta.audio_file,meta.filesize,meta.duration
+
+
+X-WP-Total: the total number of records in the collection
+X-WP-TotalPages: the total number of pages encompassing all available records
+
+x-wp-total: 2071
+x-wp-totalpages: 415
+
+
+Pseudo-code
+issue a HEAD request for a single episode, fields=link
+num_episodes=x-wp-total
+PAGE_SIZE=500
+num_pages=(num_episodes-1)/PAGE_SIZE + 1
+execute in parallel - for each page_index
+    call episodes api
+    for each item
+        create xml with text substitution
+            # massage data as necessary
+        add to items list
+    return items list
+
+write header
+for each parallel result
+    for each item
+        write item
+write footer
+
+
+    
+
+
