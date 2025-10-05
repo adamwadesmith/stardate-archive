@@ -64,4 +64,15 @@ write footer
 
     
 
+Search:
+https://web.archive.org/web/*/http://stardate.org/sites/default/files/audio/radio/*
+
+Link:
+<a href="/web/20141230165717/http://stardate.org/sites/default/files/audio/radio/sd20130226_0.mp3">http://stardate.org/sites/default/files/audio/radio/sd20130226_0.mp3</a>
+
+Full URL:
+https://web.archive.org/web/20141230165717/http://stardate.org/sites/default/files/audio/radio/sd20130226_0.mp3
+
+Will need length and duration. Must download.
+
 
